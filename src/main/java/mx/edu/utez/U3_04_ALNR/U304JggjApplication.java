@@ -1,4 +1,4 @@
-package mx.edu.utez.u3_04_jggj;
+package mx.edu.utez.U3_04_ALNR;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package mx.edu.utez.u3_04_jggj.repository;
+package mx.edu.utez.U3_04_ALNR.repository;
 
-import mx.edu.utez.u3_04_jggj.model.Cede;
+import mx.edu.utez.U3_04_ALNR.model.Cede;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

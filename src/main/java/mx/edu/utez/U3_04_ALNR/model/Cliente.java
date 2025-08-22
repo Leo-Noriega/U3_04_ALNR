@@ -1,4 +1,4 @@
-package mx.edu.utez.u3_04_jggj.model;
+package mx.edu.utez.U3_04_ALNR.model;
 
 import jakarta.persistence.*;
 import lombok.*;

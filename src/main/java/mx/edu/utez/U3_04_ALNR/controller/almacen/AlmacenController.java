@@ -1,8 +1,8 @@
-package mx.edu.utez.u3_04_jggj.controller.almacen;
+package mx.edu.utez.U3_04_ALNR.controller.almacen;
 
-import mx.edu.utez.u3_04_jggj.config.ApiResponse;
-import mx.edu.utez.u3_04_jggj.model.Almacen;
-import mx.edu.utez.u3_04_jggj.service.AlmacenService;
+import mx.edu.utez.U3_04_ALNR.config.ApiResponse;
+import mx.edu.utez.U3_04_ALNR.model.Almacen;
+import mx.edu.utez.U3_04_ALNR.service.AlmacenService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

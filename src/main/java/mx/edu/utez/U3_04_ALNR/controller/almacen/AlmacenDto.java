@@ -1,4 +1,4 @@
-package mx.edu.utez.u3_04_jggj.controller.almacen;
+package mx.edu.utez.U3_04_ALNR.controller.almacen;
 
 import lombok.Value;
 
@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * DTO for {@link mx.edu.utez.u3_04_jggj.model.Almacen}
+ * DTO for {@link mx.edu.utez.U3_04_ALNR.model.Almacen}
  */
 @Value
 public class AlmacenDto implements Serializable {

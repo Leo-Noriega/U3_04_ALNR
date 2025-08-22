@@ -1,8 +1,8 @@
-package mx.edu.utez.u3_04_jggj.controller.cliente;
+package mx.edu.utez.U3_04_ALNR.controller.cliente;
 
-import mx.edu.utez.u3_04_jggj.config.ApiResponse;
-import mx.edu.utez.u3_04_jggj.model.Cliente;
-import mx.edu.utez.u3_04_jggj.service.ClienteService;
+import mx.edu.utez.U3_04_ALNR.config.ApiResponse;
+import mx.edu.utez.U3_04_ALNR.model.Cliente;
+import mx.edu.utez.U3_04_ALNR.service.ClienteService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

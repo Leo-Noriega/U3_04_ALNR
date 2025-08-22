@@ -1,11 +1,11 @@
-package mx.edu.utez.u3_04_jggj.service;
+package mx.edu.utez.U3_04_ALNR.service;
 
-import mx.edu.utez.u3_04_jggj.config.ApiResponse;
-import mx.edu.utez.u3_04_jggj.controller.almacen.AlmacenDto;
-import mx.edu.utez.u3_04_jggj.model.Almacen;
-import mx.edu.utez.u3_04_jggj.model.Cede;
-import mx.edu.utez.u3_04_jggj.repository.AlmacenRepository;
-import mx.edu.utez.u3_04_jggj.repository.CedeRepository;
+import mx.edu.utez.U3_04_ALNR.config.ApiResponse;
+import mx.edu.utez.U3_04_ALNR.controller.almacen.AlmacenDto;
+import mx.edu.utez.U3_04_ALNR.model.Almacen;
+import mx.edu.utez.U3_04_ALNR.model.Cede;
+import mx.edu.utez.U3_04_ALNR.repository.AlmacenRepository;
+import mx.edu.utez.U3_04_ALNR.repository.CedeRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

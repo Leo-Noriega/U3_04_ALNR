@@ -1,11 +1,11 @@
-package mx.edu.utez.u3_04_jggj.controller.cede;
+package mx.edu.utez.U3_04_ALNR.controller.cede;
 
 import lombok.Value;
 
 import java.io.Serializable;
 
 /**
- * DTO for {@link mx.edu.utez.u3_04_jggj.model.Cede}
+ * DTO for {@link mx.edu.utez.U3_04_ALNR.model.Cede}
  */
 @Value
 public class CedeDto implements Serializable {

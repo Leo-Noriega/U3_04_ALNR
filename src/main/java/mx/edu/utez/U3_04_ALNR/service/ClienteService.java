@@ -1,9 +1,9 @@
-package mx.edu.utez.u3_04_jggj.service;
+package mx.edu.utez.U3_04_ALNR.service;
 
-import mx.edu.utez.u3_04_jggj.config.ApiResponse;
-import mx.edu.utez.u3_04_jggj.controller.cliente.ClienteDto;
-import mx.edu.utez.u3_04_jggj.model.Cliente;
-import mx.edu.utez.u3_04_jggj.repository.ClienteRepository;
+import mx.edu.utez.U3_04_ALNR.config.ApiResponse;
+import mx.edu.utez.U3_04_ALNR.controller.cliente.ClienteDto;
+import mx.edu.utez.U3_04_ALNR.model.Cliente;
+import mx.edu.utez.U3_04_ALNR.repository.ClienteRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

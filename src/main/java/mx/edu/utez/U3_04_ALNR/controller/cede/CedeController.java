@@ -1,8 +1,8 @@
-package mx.edu.utez.u3_04_jggj.controller.cede;
+package mx.edu.utez.U3_04_ALNR.controller.cede;
 
-import mx.edu.utez.u3_04_jggj.config.ApiResponse;
-import mx.edu.utez.u3_04_jggj.model.Cede;
-import mx.edu.utez.u3_04_jggj.service.CedeService;
+import mx.edu.utez.U3_04_ALNR.config.ApiResponse;
+import mx.edu.utez.U3_04_ALNR.model.Cede;
+import mx.edu.utez.U3_04_ALNR.service.CedeService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
